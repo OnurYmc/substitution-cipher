@@ -1,2 +1,1 @@
-# substitution-cipher
-A Python substitution cipher tool that encrypts/decrypts text using per-word seeded randomization for enhanced security.
+A little project i made to learn more about python. Usage is fairly easy but what makes this good in my eyes is the per word seeding making the cipher better. Can only run it in terminal right now as my knowledge allows that much but i will probably come back to this at one point.
